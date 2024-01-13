@@ -1,3 +1,5 @@
+# 💫 About Me:
+🔭 I’m currently working on MQL5 and building EAs<br>👯 I’m looking to collaborate on trading related projects<br>🤝 I’m looking for help with workflow and project planning<br>🌱 I’m currently learning MQL4 and 5, Wordpress, and Data Science (machine Learning and AI)<br>      I creat YT videos on trading and its related topics, I write blogs too.<br>💬 Ask me about absolutely anything!<br>⚡ Fun fact, 95% of traders like me are not profitable, but I am
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/PhontonX?t=-NCxtgeSWPyTQ5wYLqTzsA&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC2jSHt6M6ZrVfknRX4YpHxg) 
